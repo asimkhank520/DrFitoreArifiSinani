@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Fitore Arifi Sinani",
+  "description": "Official medical & clinic practice website for Dr. Fitore Arifi Sinani in Ferizaj, Kosovo with WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
